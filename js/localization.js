@@ -25,7 +25,7 @@ const fallbackTranslations = {
     "hero.image": "Мрачная средневековая крепость среди гор",
     "about.eyebrow": "О нас",
     "about.title": "Кто мы?",
-    "about.description": "Мы — команда энтузиастов, которая занимается созданием качественного контента в Minecraft и разработкой сайтов. Наша цель — воплощать ваши идеи в реальность, соблюдая сроки, стиль и высокое качество.",
+    "about.description": "Мы — команда профессионалов, которая занимается созданием качественного контента в Minecraft и разработкой сайтов. Наша цель — воплощать ваши идеи в реальность, соблюдая сроки, стиль и высокое качество.",
     "about.cta": "Узнать больше",
     "about.quality": "Качество",
     "about.qualityDescription": "Детали, которые делают разницу.",
@@ -122,7 +122,7 @@ const fallbackTranslations = {
     "hero.image": "A dark medieval fortress among the mountains",
     "about.eyebrow": "About us",
     "about.title": "Who are we?",
-    "about.description": "We are a team of enthusiasts creating quality Minecraft content and developing websites. Our goal is to bring your ideas to life with care for deadlines, style, and quality.",
+    "about.description": "We are a team of professionals creating quality Minecraft content and developing websites. Our goal is to bring your ideas to life with care for deadlines, style, and quality.",
     "about.cta": "Learn more",
     "about.quality": "Quality",
     "about.qualityDescription": "Details that make a difference.",
@@ -254,7 +254,7 @@ function applyTranslations() {
 
 export async function initializeLocalization() {
   try {
-    const response = await fetch(new URL("../locales/translations.json?v=20261013-static-site", import.meta.url), {
+    const response = await fetch(new URL("../locales/translations.json?v=20261016-professionals", import.meta.url), {
       cache: "no-store"
     });
     if (!response.ok) throw new Error("Translation request failed: " + response.status);

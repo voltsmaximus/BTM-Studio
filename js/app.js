@@ -1,5 +1,5 @@
 import { TELEGRAM_URL } from "./config.js";
-import { currentLocale, initializeLocalization, setLanguage, t, translateMarkup } from "./localization.js?v=20261013-visible-text";
+import { currentLocale, initializeLocalization, setLanguage, t, translateMarkup } from "./localization.js?v=20261016-professionals";
 import { personAvatarMarkup } from "./ui/avatar.js";
 import { bindModalControls, closeModal, modalContent, notify, openModal } from "./ui/modal.js";
 import { getPublicReviews } from "./services/reviews.js";

@@ -1,4 +1,4 @@
-import { currentLocale, t } from "../localization.js?v=20261013-visible-text";
+import { currentLocale, t } from "../localization.js?v=20261016-professionals";
 import { modalContent, openModal } from "./modal.js";
 import { getPortfolioBranch } from "../services/portfolio-schema.mjs";
 

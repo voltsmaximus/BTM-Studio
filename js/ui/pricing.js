@@ -1,4 +1,4 @@
-import { t } from "../localization.js?v=20261013-visible-text";
+import { t } from "../localization.js?v=20261016-professionals";
 import { modalContent, openModal } from "./modal.js";
 
 const openButton = document.querySelector("#pricing-open");
