@@ -1,0 +1,13 @@
+{
+  "name": "site-studio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "http-server . -p 4173 -a 127.0.0.1 -c-1",
+    "pages:build": "node scripts/prepare-pages.mjs",
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "http-server": "14.1.1"
+  }
+}

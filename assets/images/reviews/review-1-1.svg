@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 640" role="img" aria-labelledby="title desc">
+  <title id="title">Фото-заглушка 1 — спавн</title><desc id="desc">Демонстрационная иллюстрация: центральный игровой спавн, площадь и дорожки.</desc>
+  <defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#172631"/><stop offset="1" stop-color="#75806f"/></linearGradient><linearGradient id="path" x2="0" y2="1"><stop stop-color="#b4a17c"/><stop offset="1" stop-color="#544c3d"/></linearGradient></defs>
+  <path fill="url(#sky)" d="M0 0h1000v640H0z"/><path fill="#34434a" d="m0 350 190-190 130 124 174-214 188 218 126-128 192 184v296H0z"/><path fill="#596752" d="m0 420 203-157 134 108 172-202 171 210 136-121 184 154v228H0z"/>
+  <path fill="#292e2c" d="M350 286h300v230H350z"/><path fill="#464b43" d="m330 295 170-130 170 130z"/><path fill="#6d6553" d="M393 330h214v186H393z"/><path fill="#c6a96d" d="M462 394h76v122h-76z"/><path fill="#303633" d="M420 350h28v42h-28zm132 0h28v42h-28z"/><path fill="#d9bd7c" d="M0 640 385 493h230l385 147z"/><path fill="url(#path)" d="m0 640 430 0 70-147-115 0zM1000 640 570 640l-70-147h115z"/>
+  <g fill="#d6c28e"><path d="M150 430h100v18H150zm600 0h100v18H750zM280 530h110v15H280zm330 0h110v15H610z"/></g><path fill="#131716" fill-opacity=".88" d="M0 560h1000v80H0z"/><text x="38" y="596" fill="#f0eee6" font-family="Arial,sans-serif" font-size="24" font-weight="700">Фото-заглушка 1</text><text x="38" y="623" fill="#bac1b8" font-family="Arial,sans-serif" font-size="15">СПАВН · ПЛОЩАДЬ И ДОРОЖКИ</text>
+</svg>

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "review-1",
+    "status": "approved",
+    "locales": {
+      "ru": {
+        "name": "GeroSMP",
+        "image": "assets/images/reviews/avatars/gerosmp.jpg",
+        "text": "«Спавн идеально вписывается в атмосферу сервера: стиль выдержан, детали проработаны, локации логично разделены. Сразу погружаешься в мир и хочется исследовать дальше. Отличная работа!»",
+        "photos": [
+          "assets/images/reviews/review-1-1.jpg",
+          "assets/images/reviews/review-1-2.jpg"
+        ]
+      },
+      "en": {
+        "name": "GeroSMP",
+        "image": "assets/images/reviews/avatars/gerosmp.jpg",
+        "text": "“The spawn fits the server’s atmosphere perfectly: the style is consistent, the details are thoughtfully crafted, and the locations are clearly laid out. You feel immersed in the world right away and want to keep exploring. Great work!”",
+        "translatedFrom": "Russian",
+        "photos": [
+          "assets/images/reviews/review-1-1.jpg",
+          "assets/images/reviews/review-1-2.jpg"
+        ]
+      }
+    }
+  },
+  {
+    "id": "review-2",
+    "status": "approved",
+    "locales": {
+      "ru": {
+        "name": "xvii",
+        "text": "«все быстро в сроки по сравнению с другими студиями красиво быстро дёшево.»",
+        "photos": [
+          "assets/images/reviews/review-2-1.jpg",
+          "assets/images/reviews/review-2-2.jpg",
+          "assets/images/reviews/review-2-3.jpg"
+        ]
+      },
+      "en": {
+        "name": "xvii",
+        "text": "“Everything was completed quickly and on schedule. Compared with other studios, the work was beautiful, fast, and affordable.”",
+        "translatedFrom": "Russian",
+        "photos": [
+          "assets/images/reviews/review-2-1.jpg",
+          "assets/images/reviews/review-2-2.jpg",
+          "assets/images/reviews/review-2-3.jpg"
+        ]
+      }
+    }
+  },
+  {
+    "id": "review-3",
+    "status": "approved",
+    "locales": {
+      "ru": {
+        "name": "Illrapirka",
+        "image": "assets/images/reviews/avatars/illrapirka.jpg",
+        "text": "«Все супер»",
+        "photos": [
+          "assets/images/reviews/illrapirka-1.jpg",
+          "assets/images/reviews/illrapirka-2.jpg",
+          "assets/images/reviews/illrapirka-3.jpg"
+        ]
+      },
+      "en": {
+        "name": "Illrapirka",
+        "image": "assets/images/reviews/avatars/illrapirka.jpg",
+        "text": "“Everything is great!”",
+        "translatedFrom": "Russian",
+        "photos": [
+          "assets/images/reviews/illrapirka-1.jpg",
+          "assets/images/reviews/illrapirka-2.jpg",
+          "assets/images/reviews/illrapirka-3.jpg"
+        ]
+      }
+    }
+  }
+]

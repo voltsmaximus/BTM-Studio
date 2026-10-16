@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "id": "minecraft-builds",
+      "name": {
+        "ru": "Постройки в Minecraft",
+        "en": "Minecraft Builds"
+      },
+      "projects": [
+        {
+          "id": "gothic-angel",
+          "name": { "ru": "Готический ангел", "en": "Gothic Angel" },
+          "description": {
+            "ru": "Проект масштабной органической скульптуры ангела, интегрированный в высотную локацию. Особое внимание уделено геометрии крыльев и плавной проработке анатомических пропорций фигуры в больших масштабах.",
+            "en": "A large-scale organic angel sculpture integrated into an elevated location. Particular attention is given to the geometry of the wings and the smooth rendering of the figure’s anatomical proportions at monumental scale."
+          },
+          "dimensions": "50 × 200 × 50",
+          "photos": ["assets/images/portfolio/Ангел.jpg"]
+        },
+        {
+          "id": "heavenly-spawn",
+          "name": { "ru": "Небесный спавн", "en": "Heavenly Spawn" },
+          "description": {
+            "ru": "Проект игрового спавна в концепции парящего острова в стиле светлого фэнтези. Локация спроектирована с учетом правильного распределения игрового трафика: компактное расположение зданий позволяет разместить NPC, доски объявлений, порталы или квестовые зоны в шаговой доступности друг от друга.",
+            "en": "A game spawn designed as a floating island in a light fantasy style. The layout accounts for player traffic: its compact arrangement of buildings keeps NPCs, notice boards, portals, and quest areas within easy walking distance of one another."
+          },
+          "dimensions": "150 × 150",
+          "photos": ["assets/images/portfolio/небесный спавн.jpg"]
+        },
+        {
+          "id": "mountain-spawn",
+          "name": { "ru": "Спавн в горах", "en": "Mountain Spawn" },
+          "description": {
+            "ru": "Проект масштабного спавна с глубокой проработкой окружения. Продемонстрированы навыки терраформинга: создание реалистичных крутых заснеженных склонов, формирование естественной горной гряды и интеграция деревни в сложный рельеф.",
+            "en": "A large-scale spawn with a carefully developed environment. The project demonstrates terrain-shaping skills through realistic steep snowy slopes, a natural mountain ridge, and a village integrated into the complex terrain."
+          },
+          "dimensions": "200 × 400",
+          "photos": ["assets/images/portfolio/спавн в горах.jpg"]
+        }
+      ],
+      "subcategories": []
+    },
+    {
+      "id": "web-studio",
+      "name": {
+        "ru": "Веб-студия",
+        "en": "Web Studio"
+      },
+      "subcategories": []
+    }
+  ]
+}
