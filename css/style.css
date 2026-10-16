@@ -87,9 +87,9 @@ a:focus-visible {
 }
 
 .brand-mark {
-  width: 27px;
-  height: 27px;
-  fill: currentColor;
+  width: 34px;
+  height: 34px;
+  object-fit: contain;
 }
 
 .main-nav,
@@ -958,8 +958,8 @@ blockquote {
 }
 
 .footer-top .brand-mark {
-  width: 25px;
-  height: 25px;
+  width: 32px;
+  height: 32px;
 }
 
 .footer-nav {
@@ -1047,8 +1047,8 @@ blockquote {
   }
 
   .brand-mark {
-    width: 23px;
-    height: 23px;
+    width: 30px;
+    height: 30px;
   }
 
   .main-nav {
@@ -2301,8 +2301,8 @@ blockquote {
   }
 
   .brand-mark {
-    width: 20px;
-    height: 20px;
+    width: 27px;
+    height: 27px;
   }
 
   .account-trigger {

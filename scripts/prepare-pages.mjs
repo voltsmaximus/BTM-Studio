@@ -7,6 +7,7 @@ const outputDirectory = path.join(projectRoot, "dist", "pages");
 const publishedFiles = [
   "index.html",
   "favicon.svg",
+  "assets/images/logo-site.png",
   "css/style.css",
   "data/approved-reviews.json",
   "data/portfolio.json",
